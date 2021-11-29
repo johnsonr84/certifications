@@ -4,7 +4,7 @@ This is a repository that contains all the certificates that I have earned and a
 
 ## University of Utah
 
-- Full Stack Web Coding Bootcamo Program
+- Full Stack Web Coding Bootcamp Program (Completed GPA = A+)
 
 ## The Iron Yard
 
@@ -20,7 +20,7 @@ This is a repository that contains all the certificates that I have earned and a
 
 ## Kent C. Dodds
 
-- Epic React - React Fundamentals
+- Epic React - React Fundamentals (In progress)
 
 ## Harvard Extension School
 
@@ -34,5 +34,3 @@ Coming Soon!
 ## Free Code Camp
 
 Coming Soon!
-
-# certifications

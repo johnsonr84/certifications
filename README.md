@@ -1,6 +1,6 @@
 # Certificates
 
-This is a repository that contains all the certificates that I have earned.
+This is a repository that contains all the certificates that I have earned and a few that are in progress!
 
 ## University of Utah
 
